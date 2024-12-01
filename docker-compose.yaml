@@ -1,7 +1,8 @@
 services:
   app:
     build:
-      dockerfile: .
+      context: .
+      dockerfile: Dockerfile
     environment:
       - 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
     ports:
@@ -19,4 +20,5 @@ services:
     image: allegroai/clearml
     ports:
       - "8003:8003"
+
     
