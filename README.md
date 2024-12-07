@@ -1,11 +1,11 @@
 # Docker Compose
 ## GitHub ID
 - Devan Desai : devdes338
-- Nency : 
+- Nency Ajmera : nency-a
 
 ## HuggingFace
 - Devan Desai : drd38
-- Nency : 
+- Nency Ajmera : nencya
 
 ### Commands to Build Image and Compose
 - **Refer to https://clear.ml/docs/latest/docs/deploying_clearml/clearml_server_linux_mac/ for more information**
